@@ -1,1 +1,1 @@
-# Resume-Categorizer
+# Resume_Categorization_Application
